@@ -4,7 +4,6 @@
 
 ## 💻 Hakkımda Kısaca
 
-- 🌍 Türkiye'de yaşıyorum.
 - 🛠️ ASP.NET Core, ReactJS, PostgreSQL, Entity Framework gibi teknolojilerle projeler geliştiriyorum.
 - 📱 Bitirme projem olan **EconoMate** ile hem web hem mobil platformlara yönelik bütçe yönetimi uygulaması geliştirdim.
 - 🔐 CCNA ve ISC2 Certified in Cybersecurity sertifikalarına hazırlanıyorum.
@@ -22,13 +21,11 @@
 - **Backend:** ASP.NET Core, C#, Entity Framework Core, PostgreSQL, MSSQL  
 - **Frontend:** ReactJS, Next.js, HTML, CSS, Bootstrap, Tailwind  
 - **Diğer:** Git, GitHub, Docker, JWT, REST API, Postman  
-- **Araçlar:** Visual Studio, VS Code, PgAdmin, Figma
+- **Araçlar:** Visual Studio, VS Code, PgAdmin, Figma, Postman, Unity
 
 ## 📫 Bana Ulaşın
 
-- GitHub: [@Foreign1923](https://github.com/Foreign1923)
-- LinkedIn: [Orkun Özdemir](https://www.linkedin.com/in/orkunozdemir/)  
-- E-posta: orkunozdmr@gmail.com
+- LinkedIn: [Orkun Özdemir](https://www.linkedin.com/in/orkun-%C3%B6zdemir-0998b210a/)  
 
 ---
 
